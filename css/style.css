@@ -23,6 +23,10 @@ body{
     font-size: 18px;
 }
 
+.welc{
+    position: relative;
+}
+
 .tx-present{
     color: #fff;
     text-decoration: none;
@@ -32,6 +36,32 @@ body{
     line-height: 100px;
 }
 
+.cam3{
+    height: 333px;
+    width: 490px;
+    position: absolute;
+    margin-left: 240px;
+    margin-top: -20px;
+}
+
+.audui{
+    height: 666px;
+    width: 1000px;
+    position: absolute;
+    margin-left: -140px;
+    margin-top: -110px;
+}
+
+.tx-present2{
+    color: #fff;
+    text-decoration: none;
+    font-size: 100px;
+    line-height: 100px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+
 .tx-signup{
     color: #fff;
     text-decoration: none;
@@ -39,6 +69,7 @@ body{
     margin-top: 0%;
     font-size: 120px;
     line-height: 120px;
+    position: relative;
 }
 
 .tx-main{
